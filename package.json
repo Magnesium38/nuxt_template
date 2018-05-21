@@ -13,7 +13,13 @@
 		"precommit": "npm run lint"
 	},
 	"dependencies": {
-		"nuxt": "^1.0.0"
+		"autoprefixer": "^8.5.0",
+		"glob-all": "^3.1.0",
+		"node-sass": "^4.9.0",
+		"nuxt": "^1.0.0",
+		"purgecss-webpack-plugin": "^0.22.1",
+		"sass-loader": "^7.0.1",
+		"tailwindcss": "^0.5.3"
 	},
 	"devDependencies": {
 		"babel-eslint": "^8.2.1",
